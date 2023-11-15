@@ -23,7 +23,8 @@ git push
 #(4) Når der skal opdateres ny data den anden har lavet
 git pull
 
-
+#(5) Når filerne skal opdateres efter andre har lavet noget.
+git fetch upstream
 
 #Note
 
